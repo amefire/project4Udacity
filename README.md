@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/amefire/project4Udacity/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/amefire/project4Udacity/tree/master)
 
 ## Project Overview
 
